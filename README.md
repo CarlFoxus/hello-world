@@ -6,4 +6,4 @@ This is my first attempt to add something to GitHub - let's do it!
 **and this seems really important if I make it bold**
 *this is not so important anymore*
 
-`print('ahoj')`
+`print('Hi man')`
